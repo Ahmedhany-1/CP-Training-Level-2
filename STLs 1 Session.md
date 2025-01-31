@@ -1,7 +1,8 @@
 ## STLs 1 Session: 
 ### `Pairs, Arrays, Vectors, Deque, Queue, Stack, Priority Queue, Monotonic Stack`
-[Session Video](https://www.youtube.com/watch?v=HqlQ-FNt_wA&ab_channel=AhmedHany)
+[Session Video...🎞](https://www.youtube.com/watch?v=HqlQ-FNt_wA&ab_channel=AhmedHany)
 
+---
 ## What is Stls
 Standard Template Library set of template that provides the implementation of common data structures and algorithms
 
