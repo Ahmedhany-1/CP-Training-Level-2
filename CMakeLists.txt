@@ -25,12 +25,12 @@ add_executable(G "Week 01/G.cpp")
 add_executable(M "Week 01/M.cpp")]]
 
 
-add_executable(A "Contest #0/A.cpp")
-add_executable(B "Contest #0/B.cpp")
-add_executable(C "Contest #0/C.cpp")
-add_executable(D "Contest #0/D.cpp")
-add_executable(E "Contest #0/E.cpp")
-add_executable(F "Contest #0/F.cpp")
+add_executable(A "Old 2024/Contest #0/A.cpp")
+add_executable(B "Old 2024/Contest #0/B.cpp")
+add_executable(C "Old 2024/Contest #0/C.cpp")
+add_executable(D "Old 2024/Contest #0/D.cpp")
+add_executable(E "Old 2024/Contest #0/E.cpp")
+add_executable(F "Old 2024/Contest #0/F.cpp")
 
 
 #[[add_executable(A "Week 02/A.cpp")
