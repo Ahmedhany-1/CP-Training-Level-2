@@ -27,19 +27,20 @@ Standard Template Library set of template that provides the implementation of co
 - It is part of the `<utility>` header (included in `<iostream>` and other STL headers).
 - Useful for combining two values (e.g., coordinates, key-value pairs).
 
-## **Practice Problems**
+**Practice Problems (Sort People by Name and Salary)**
+- 
+- [ ] Given n people with their names and salaries, sort them in ascending order of names. If two people have the same name, sort them in ascending order of salary.
 
-1. [ ] **Sort People by Name and Salary**
 
-Given n people with their names and salaries, sort them in ascending order of names. If two people have the same name, sort them in ascending order of salary.
+- Input :
+  - An integer n (number of people).
+  - n pairs of (name, salary).
 
-- Input
-An integer n (number of people).
-n pairs of (name, salary).
-
-- Output
-Print the sorted list of people.
-
+- Output 
+  - Print the sorted list of people.
+  
+****[Soluotion](https://gist.github.com/Ahmedhany-1/1661a5f8a6485d7de1c56bc469459249)****
+---
 ---
 ## 3. Vectors (`vector<T> vec_name(size, value);`)
 
@@ -75,9 +76,11 @@ Print the sorted list of people.
 **Problem: Max Consecutive Ones**  
 - [ ] [LeetCode 485](https://leetcode.com/problems/max-consecutive-ones/)
 
+  - **[Soluotion](https://leetcode.com/problems/max-consecutive-ones/submissions/1525884070)**
+
 **Problem: Array**  
 - [ ] [vjudge. Array](https://vjudge.net/problem/CodeForces-300A)
-
+  - **[Soluotion](https://vjudge.net/solution/57967861)**
 ---
 # 4. Iterators: 
 - begin(), end(), rbegin(), rend()
@@ -104,11 +107,15 @@ Print the sorted list of people.
 
 **Problem: Ada and Queue**  
 - [ ] [vjudge. Ada and Queue](https://vjudge.net/problem/SPOJ-ADAQUEUE)
+  - **[Soluotion](https://vjudge.net/solution/57968750)**
+
 
 **Problem: Rotate Array**  
 - [ ] [LeetCode 189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+    - **[Soluotion](https://leetcode.com/problems/rotate-array/submissions/1525880305)**
 
 ---
+
 
 ## 6. Queue (`queue<T> queue_name;`)
 
@@ -126,14 +133,14 @@ Design a data structure that efficiently returns the sum of the last `k` numbers
 
 ### **Example**
 
-
 ```
 k = 4
 Stream: 1, 2, 3, 4, 5, 6, 7, 8, 9, ...
 Returns: 1, 3, 6, 10, 14, 18, 22, 26, 30, ...
 ```
+**[Soluotion](https://gist.github.com/Ahmedhany-1/5a120639f28fe02be50c16d3094397b0)**
 ---
-
+---
 
 ## 7. Stack (`stack<T> stack_name;`)
 
@@ -145,12 +152,16 @@ Returns: 1, 3, 6, 10, 14, 18, 22, 26, 30, ...
 
 **Problem: Valid Parentheses**  
 - [ ] [LeetCode 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+  - **[Soluotion](https://leetcode.com/problems/valid-parentheses/submissions/1526864234)**
+
 
 **Problem: Remove All Adjacent Duplicates In String (interview Problem)**
 - [ ] [LeetCode 1047.  Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
+    - **[Soluotion](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/1526813753)**
 
 **Problem: Implement Queue using Stacks (Micrsoft interview 2024)**  
 - [ ] [LeetCode 232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+    - **[Soluotion](https://leetcode.com/problems/implement-queue-using-stacks/submissions/1526865036)**
 
 ---
 
@@ -164,11 +175,11 @@ Returns: 1, 3, 6, 10, 14, 18, 22, 26, 30, ...
 
 **Problem: Kth Largest Element (Micrsoft interview 2024)**  
 - [ ] [LeetCode 215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-
+    - **[Soluotion](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1526672800)**
+  
 **Problem: Potions (Hard Version)**  
 - [ ] [vjudge. Potions (Hard Version) ](https://vjudge.net/problem/CodeForces-1526C2)
-
-
+    - **[Soluotion](https://vjudge.net/solution/55459389)**
 ---
 
 ## 9. Monotonic Stack
@@ -190,4 +201,7 @@ for(int num : nums) {
 
 **Problem: Next Greater Element (interview Problem)**  
 - [ ] [LeetCode 496. Next Greater Element I](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1?itm_source=geeksforgeeks)
+    - **[Soluotion](https://gist.github.com/Ahmedhany-1/4463544ec6f75860ead20e009c960450)**
+
 ---
+
